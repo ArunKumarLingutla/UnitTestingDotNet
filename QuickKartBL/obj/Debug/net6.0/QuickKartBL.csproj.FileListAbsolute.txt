@@ -1,0 +1,66 @@
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\suman.jayakumar\Documents\Courseware\Unit Testing Courseware\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+C:\Users\suman.jayakumar\Documents\Courseware\Unit Testing Courseware\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\suman.jayakumar\Documents\Courseware\Unit Testing Courseware\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\suman.jayakumar\Documents\Courseware\Unit Testing Courseware\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suman.jayakumar\Documents\Courseware\Unit Testing Courseware\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+C:\Users\suman.jayakumar\Documents\Courseware\Unit Testing Courseware\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+C:\Users\suman.jayakumar\Documents\Courseware\Unit Testing Courseware\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\suman.jayakumar\Documents\Courseware\Unit Testing Courseware\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+C:\Users\suman.jayakumar\Documents\Courseware\Unit Testing Courseware\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+C:\Users\suman.jayakumar\Documents\Courseware\Unit Testing Courseware\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+C:\Users\suman.jayakumar\Documents\Courseware\Unit Testing Courseware\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\Supplied Files\Demo\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\Supplied Files\Demo\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\Supplied Files\Demo\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\MSTest\Supplied Files\Demo\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\MSTest\Supplied Files\Demo\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\MSTest\Supplied Files\Demo\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\MSTest\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\MSTest\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\MSTest\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\MSTest\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\MSTest\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\MSTest\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\MSTest\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+D:\deepa.joseph\OneDrive - Infosys Limited\Course creation 2024\MSTest\Supplied Files\Demo\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\suman.jayakumar\Downloads\QuickKart1726816721481\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+C:\Users\suman.jayakumar\Downloads\QuickKart1726816721481\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\suman.jayakumar\Downloads\QuickKart1726816721481\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\suman.jayakumar\Downloads\QuickKart1726816721481\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suman.jayakumar\Downloads\QuickKart1726816721481\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+C:\Users\suman.jayakumar\Downloads\QuickKart1726816721481\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+C:\Users\suman.jayakumar\Downloads\QuickKart1726816721481\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\suman.jayakumar\Downloads\QuickKart1726816721481\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+C:\Users\suman.jayakumar\Downloads\QuickKart1726816721481\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+C:\Users\suman.jayakumar\Downloads\QuickKart1726816721481\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+C:\Users\suman.jayakumar\Downloads\QuickKart1726816721481\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
