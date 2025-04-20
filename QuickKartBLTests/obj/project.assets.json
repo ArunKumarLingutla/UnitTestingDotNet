@@ -1019,9 +1019,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arunk\\source\\repos\\QuickKart\\QuickKartBLTests\\QuickKartBLTests.csproj",
-      "projectName": "QuickKartBLTests",
-      "projectPath": "C:\\Users\\arunk\\source\\repos\\QuickKart\\QuickKartBLTests\\QuickKartBLTests.csproj",
+      "projectUniqueName": "C:\\Users\\arunk\\source\\repos\\QuickKart\\QuickKartBLTests\\QuickKartBLMSTests.csproj",
+      "projectName": "QuickKartBLMSTests",
+      "projectPath": "C:\\Users\\arunk\\source\\repos\\QuickKart\\QuickKartBLTests\\QuickKartBLMSTests.csproj",
       "packagesPath": "C:\\Users\\arunk\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\arunk\\source\\repos\\QuickKart\\QuickKartBLTests\\obj\\",
       "projectStyle": "PackageReference",

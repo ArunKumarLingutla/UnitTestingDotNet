@@ -50,7 +50,7 @@ namespace QuickKartBL
                 totalPrice = (this.Price * quantityToPurchase) - (this.Price * quantityToPurchase) * 0.10;
             }
 
-            else if (quantityToPurchase >= 1 && quantityToPurchase <5)
+            else if (quantityToPurchase >= 1 && quantityToPurchase <=5)
             {
                 totalPrice = this.Price * quantityToPurchase;
             }

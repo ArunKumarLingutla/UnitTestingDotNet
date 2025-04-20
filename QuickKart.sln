@@ -5,7 +5,11 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickKartBL", "QuickKartBL\QuickKartBL.csproj", "{FC81EDB5-02B3-4201-9ABD-18A9A4EC0D6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickKartBLTests", "QuickKartBLTests\QuickKartBLTests.csproj", "{8C6AC6EE-84A6-4054-9C8B-7EF569723FEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickKartBLMSTests", "QuickKartBLTests\QuickKartBLMSTests.csproj", "{8C6AC6EE-84A6-4054-9C8B-7EF569723FEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickKartNunitTest", "QuickKartNunitTest\QuickKartNunitTest.csproj", "{0722CF8C-07D8-4247-9D17-FE6F5888D1E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickKartXUnitTest", "QuickKartXUnitTest\QuickKartXUnitTest.csproj", "{71EE588A-94E9-427E-869E-D7494796334A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{8C6AC6EE-84A6-4054-9C8B-7EF569723FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C6AC6EE-84A6-4054-9C8B-7EF569723FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C6AC6EE-84A6-4054-9C8B-7EF569723FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0722CF8C-07D8-4247-9D17-FE6F5888D1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0722CF8C-07D8-4247-9D17-FE6F5888D1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0722CF8C-07D8-4247-9D17-FE6F5888D1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0722CF8C-07D8-4247-9D17-FE6F5888D1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EE588A-94E9-427E-869E-D7494796334A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EE588A-94E9-427E-869E-D7494796334A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EE588A-94E9-427E-869E-D7494796334A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EE588A-94E9-427E-869E-D7494796334A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

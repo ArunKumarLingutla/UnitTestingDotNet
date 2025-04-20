@@ -64,3 +64,15 @@ C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickK
 C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
 C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
 C:\Users\arunk\Downloads\QuickKart\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll
+C:\Users\arunk\source\repos\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.deps.json
+C:\Users\arunk\source\repos\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.dll
+C:\Users\arunk\source\repos\QuickKart\QuickKartBL\bin\Debug\net6.0\QuickKartBL.pdb
+C:\Users\arunk\source\repos\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arunk\source\repos\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfoInputs.cache
+C:\Users\arunk\source\repos\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.AssemblyInfo.cs
+C:\Users\arunk\source\repos\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\arunk\source\repos\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.sourcelink.json
+C:\Users\arunk\source\repos\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.dll
+C:\Users\arunk\source\repos\QuickKart\QuickKartBL\obj\Debug\net6.0\refint\QuickKartBL.dll
+C:\Users\arunk\source\repos\QuickKart\QuickKartBL\obj\Debug\net6.0\QuickKartBL.pdb
+C:\Users\arunk\source\repos\QuickKart\QuickKartBL\obj\Debug\net6.0\ref\QuickKartBL.dll

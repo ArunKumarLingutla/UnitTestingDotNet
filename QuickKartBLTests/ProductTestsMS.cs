@@ -1,7 +1,7 @@
 ﻿namespace QuickKartBL.Tests
 {
     [TestClass()]
-    public class ProductTests
+    public class ProductTestsMS
     {
         private Product product;
 
